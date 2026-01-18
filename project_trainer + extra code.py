@@ -1,3 +1,5 @@
+#This is a demo created to train on a separate program the AI created that has been developed;
+#you can still find everything yoou need to train your Artificial Intelligence in the final project file
 import torch
 import torch.nn as nn
 import torch.optim as optim
